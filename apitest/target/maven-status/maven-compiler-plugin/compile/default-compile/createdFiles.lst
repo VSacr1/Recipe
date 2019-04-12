@@ -1,0 +1,8 @@
+recipies\apitest\domain\Recipes.class
+rest\JAXActivator.class
+persistence\repository\RecipeRepository.class
+business\service\RecipeService.class
+util\JSONUtil.class
+rest\RecipeEndpoint.class
+business\service\RecipeServiceImpl.class
+persistence\repository\RecipeDBRepository.class
